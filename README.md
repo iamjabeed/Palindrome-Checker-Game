@@ -4,4 +4,4 @@
 ## Technologies used:<br>
 HTML <br>
 CSS <br>
-JavaScript
+javaScript
